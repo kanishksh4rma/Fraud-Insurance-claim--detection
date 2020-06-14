@@ -1,5 +1,5 @@
 ### Fraud-Insurance-claim--detection
-## Financial frauds are associated with sophisticated urban areas. But when it comes to insurance frauds, rural India has taken the lead due to various reasons. While baby steps like a fraudster database is being taken, such malpractices may not be contained without strict punishments under penal code
+##  Financial frauds are associated with sophisticated urban areas. But when it comes to insurance frauds, rural India has taken the lead due to various reasons. While baby steps like a fraudster database is being taken, such malpractices may not be contained without strict punishments under penal code
 
 ## Insurers have identified at least 80 districts across the country which have excelled in fraudulent claims over the past decade. They have identified rings that operate with the efficiency of a corporation with well-trained men and women who collect data with the efficiency of a 21st century start-up.
 

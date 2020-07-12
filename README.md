@@ -16,8 +16,28 @@
 > * In certain scenarios rules would be framed that would define if the case needs to be sent for investigation. 
 > * In other cases, a checklist would be prepared with scores for the various indicators of fraud. An aggregation of these scores along with the value of the claim would determine if the case needs to be sent for investigation.
 
+
+### Libraries used : 
+```
+  * pandas
+  * numpy
+  * matplotlib
+  * plotly
+  * cufflinks
+```
+
+## Algorithms Used
+
+The Algorithms used are : 
+
+	* decision tree
+	* kNN
+	* kMeans clustering
+	* RandomForestClassifier
+
 **Hence, Machine Learning can saves Million of $ Dollars.** 
 ---
+
 > Developed by : [Kanishk sharma]('github.com/kanishksh4rma')
   
 
